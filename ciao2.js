@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
     elementoH1.innerHTML = "Ciao Mondo! <br> sto eseguendo codice js." ;
-    elementoH3.innerHTML = "il file ciao.js funziona correttamente." ;
+    elementoH3.innerHTML = "il file ciao2.js funziona correttamente." ;
     console.log("sono entrato nell'evento...");
 }); // fine document.addEventListener('DOMContentLoaded'....
 
