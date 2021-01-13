@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function(){
 
 
     elementoH1.innerHTML = "Ciao Mondo! <br> sto eseguendo codice js." ;
-    elementoH3.innerHTML = "il file ciao3.js è su giuhub ma non c'è nuuova release funziona correttamente." ;
+    elementoH3.innerHTML = "il file ciao3.js è su giuhub con 1.0.5 nuuova release funziona correttamente." ;
     console.log("sono entrato nell'evento...");
 }); // fine document.addEventListener('DOMContentLoaded'....
 
